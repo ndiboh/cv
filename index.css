@@ -23,20 +23,14 @@
 }
 .personal:hover{
 	position:relative;
-	left:75%;
+	left:5%;
 	color:whitesmoke;
 	background:grey;
 	padding:10px;
 	border-radius:6px;
     text-decoration:none;
 }
-.conty{
-	height:3%;
-	width:3%;
-	
-	float: left;
-	
-}
+
 .ruler{
 	border-color:#ff935c;
 	
